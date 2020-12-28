@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Aircraft enthusiast, Soft roboticist 
+subtitle: Aircraft enthusiast / Soft roboticist 
 ---
 
 My name is Sangmin Lim. I am currently a Ph.D candidate at UCLA.
