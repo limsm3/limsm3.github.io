@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Soft roboticist 
+subtitle: Aircraft enthusiast, Soft roboticist 
 ---
 
-My name is Sangmin Lim.
+My name is Sangmin Lim. I am currently a Ph.D candidate at UCLA.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- B.S : United States Air Force Academy (2016) - Aeronautical Engineering
+- M.S : University of California Los Angeles (2019) - Mechanical Engineering
+- Hobby : Snowboarding, Hiking, (learning how to surf these days)
 
 ### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am interested in Mechanics of elastic structures, Machine learning and Robotics in general for my studies. 
+I collect aircraft photos for fun. Enjoy outdoor stuff. Texas roadhouse is the greatest invention.
