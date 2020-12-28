@@ -4,7 +4,7 @@ title: About me
 subtitle: Aircraft enthusiast / Soft roboticist 
 ---
 
-![Crepe](/assets/img/sangmin.jpg){: .mx-auto.d-block :}
+![myphoto](/assets/img/sangmin.jpg){: .mx-auto.d-block :}
 
 My name is Sangmin Lim. I am currently a Ph.D candidate at UCLA.
 
