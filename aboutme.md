@@ -22,7 +22,7 @@ My name is Sangmin Lim. I am currently a Ph.D candidate at UCLA.
 - ML-assisted low reynold's number hydrodynamics : 2020/10 ~
 
 ### Publications
--Siefers, Timothy & Frost, Randy & **Lim, Sangmin** & McLaughlin, Thomas. (2017). Wind Induced Forces on a Hemispherical Observatory Dome with Open Shutter Doors. 10.2514/6.2017-1216
+- Siefers, Timothy & Frost, Randy & **Lim, Sangmin** & McLaughlin, Thomas. (2017). Wind Induced Forces on a Hemispherical Observatory Dome with Open Shutter Doors. 10.2514/6.2017-1216
 
 ### My story
 I am interested in Mechanics of elastic structures, Machine learning and Robotics in general for my studies. 
