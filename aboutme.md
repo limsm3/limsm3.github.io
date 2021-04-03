@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Robotic Engineer
+subtitle: Robotic Engineer / Structural Mechanics
 ---
 
 ![myphoto](/assets/img/sangmin.jpg){: .mx-auto.d-block :}
