@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Aircraft enthusiast / Soft roboticist 
+subtitle: Robotic Engineer
 ---
 
 ![myphoto](/assets/img/sangmin.jpg){: .mx-auto.d-block :}
