@@ -16,3 +16,4 @@ My name is Sangmin Lim. I am currently a Ph.D candidate at UCLA.
 I am interested in Mechanics of elastic structures, Machine learning and Robotics in general for my studies. 
 I collect aircraft photos for fun. Enjoy outdoor stuff. 
 Texas roadhouse is the greatest invention.
+This blog is built for the record of my book readings and critical reviews on them.
