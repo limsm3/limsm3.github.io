@@ -13,6 +13,9 @@ My name is Sangmin Lim. I am currently a Ph.D candidate at UCLA.
 - Hobby : Snowboarding, Hiking, (learning how to surf these days)
 
 ### Projects
+- Design of a Human-Friendly Robot Control System and Anaylsis of the Sawyer Robotic Arm (Kyle Gillespie, Seungmin Jung, Sangmin Lim) : UCLA MAE 263C project
+- CNN-LSTM analysis with Power spectral density of EEG data (Fuzail Khan, Sangmin Lim, Ganesha Srivallabha, Derek Nguyen) : UCLA ECE C247 class project 
+- Python-based spectral clustering image segmentation algorithm - Based on Malik and Shi (2000) : UCLA ECE 133B class project
 - Multiflagellated soft robot platform/simulation : 2019/12 ~
 - Physics-based simulation of Ferromagnetic Soft robot simulation : 2021/01 ~
 - 3D simulation of mooring lines with DER : 2021/03 ~
